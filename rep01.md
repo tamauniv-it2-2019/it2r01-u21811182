@@ -5,7 +5,7 @@
 - [マークダウン記法](https://guides.github.com/features/mastering-markdown/) を調べ、どのような記法があるのか、実例を示して簡単に解説しなさい。
 - 提出方法：このファイルの「課題」の部分を書き換え、GitHub classroom 上でコミットする（詳細は講義で解説する）。
 
-## <font color="red">課題「GitHub マークダウンでできること」</font>
+## <font color="red"></font>課題「GitHub マークダウンでできること」
 これ以降を書き換えて「マークダウンを理解している」ことを示す。
 
 マークダウン記法は文章の書き方のことです。
